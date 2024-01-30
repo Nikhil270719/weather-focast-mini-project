@@ -1,1 +1,1 @@
-# weather-focast-mini-project
+# weather-forcast-mini-project
